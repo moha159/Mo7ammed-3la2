@@ -1,0 +1,6 @@
+owner=564610158555037726
+prefix=*
+game=Alternative
+stayinchannel=true
+songinstatus=false
+token=NjA2ODk1MjI2NjM5ODc2MTY2.XURtqw.dXDYmBEzOwCBbwWhq3bY5JyumtM
